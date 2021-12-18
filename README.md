@@ -1,4 +1,4 @@
-### Micromouse_challenge
+# Micromouse_challenge
 
 ## Simulation of Techfest's Micromouse Challenge
 
@@ -31,5 +31,5 @@ The working of frontier exploration :-
 
 
 
-This competition is over but still if you want to collaborate on this project you can contact me by 
+This competition is over but still if you want to collaborate on this project you can contact me at chahakjethani@gmail.com
 
