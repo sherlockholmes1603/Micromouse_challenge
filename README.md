@@ -24,11 +24,16 @@ The easy map that I was using to improve parameters of move base :-
 <img src="assests/easy_world.png" width="500">
 
 The working of exploration lite :-
-<img src="assests/exploration_lite.mp4">
+
+<p align="center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/QdUkaSucpjA?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 The working of frontier exploration :-
-<img src="assests/frontier_exploration.mp4">
 
+<p align="center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/nD7x1MrnupU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 
 This competition is over but still if you want to collaborate on this project you can contact me at chahakjethani@gmail.com
