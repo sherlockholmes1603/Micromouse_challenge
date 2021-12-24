@@ -25,9 +25,12 @@ The easy map that I was using to improve parameters of move base :-
 
 The working of exploration lite :-
 https://www.youtube.com/watch?v=nD7x1MrnupU
+(Also available in assests folder)
+
 
 The working of frontier exploration :-
 https://www.youtube.com/watch?v=QdUkaSucpjA
+(Also available in assests folder)
 
 
 This competition is over but still if you want to collaborate on this project you can contact me at chahakjethani@gmail.com
